@@ -1,8 +1,7 @@
 # Project Requirements — AL HARAM STORE (Custom E-Commerce Website + Admin Panel)
 
 This document describes the complete functional, technical, and design requirements for building a **fully custom e-commerce website** and **full admin panel** for **AL HARAM STORE**, including backend, frontend, database, API, admin features, brand guidelines, deployment, testing, and security.
-
-No part of HomeShopping.pk should be copied.  
+ 
 Only a **unique, original** system should be created.
 
 ---
