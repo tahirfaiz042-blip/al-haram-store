@@ -25,8 +25,8 @@ Logo must be delivered in SVG + PNG.
 
 ## 🔵 Store Contact Info (Default Values)
 - **Phone:** +92 300 9250960  
-- **Email:** info@alharamstore.pk  
-- **Address:** Your shop address here, City, Pakistan  
+- **Email:** nauman.mgsf10@gmail.com 
+- **Address:** Vehari Bazar Opposite Clinix Medical Store, Burewala, Pakistan  
 
 These must be editable from the **Admin Panel → Settings**.
 
